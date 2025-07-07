@@ -101,6 +101,5 @@ For feedback or collaboration, feel free to reach out:
 
 ## 📸 Screenshot
 
-![Dashboard Preview](dashboard-screenshot.png)
-> Replace this with an actual screenshot of your dashboard.
+![Screenshot 2025-03-20 155449](https://github.com/user-attachments/assets/5f67d981-3fa5-4ca0-b30f-08ec12467901)
 
